@@ -28,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # angular-firebase-tutorial
 
-Let's make PR 1! :) 
+Let's do a PR :)
+
